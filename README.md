@@ -1,4 +1,5 @@
-# Applied Deep Learning Project - Remote-Controlled RC Car with Real-Time Semantic Segmentation in Indoor Environment
+# Applied Deep Learning Project
+# Remote-Controlled Car with Real-Time Semantic Segmentation in Indoor Environment
 
 ## Overview and Goals
 
@@ -29,7 +30,7 @@ The main goal is to allow the RC car to autonomously drive by detecting and avoi
 
 ### 2. Decision of a Topic
 
-**Topic**: Real-Time Semantic Segmentation for Navigation**  
+**Topic**: Real-Time Semantic Segmentation for Navigation
 The model will process the RC car’s live camera feed, identifying drivable areas and obstacles (such as furniture or walls).
 
 ### 3. Type of Project
